@@ -1,7 +1,4 @@
-# Zomato Clone
-Hello All this is my first MERN project
-
-
+# GrubGo (Zomato Clone)
 Its a Clone of Zomato Web page a online food delivery website.
 This website has functionlity of signup and signin is user, user can visit different restaurants and give reviews on restaurants.
 User can also givew reviews to a restaurant and also order foods and which is dynamic and automatically callculate the orders and redirects to a payment gateway.
@@ -9,10 +6,8 @@ This Data manipulation and usage is done through MongoDb.
 
 
 ## Backend:
-Repository: https://github.com/ShivaKanchi/Zomato_Clone_Server
+Repository: https://github.com/vinit-thummar/GrubGo.git
 
-Api:
-https://zomato-clone-shiva.onrender.com/
 
 ## Tech Stack
 
